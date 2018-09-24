@@ -1,5 +1,5 @@
 _repo: Mycen0xe6-a-narrative-of-researches-and-discoveries-at-Mycen0xe6-and-Tiryns_56940
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Gladstone, W. E. (William Ewart)
@@ -11,12 +11,17 @@ contributor:
     gutenberg_agent_id: '1195'
     url: http://www.gutenberg.org/2009/agents/1195
     wikipedia: http://en.wikipedia.org/wiki/William_Ewart_Gladstone
+covers:
+- cover_type: archival
+  image_path: 56940-h/images/coverpage.jpg
 creator:
   author:
     agent_name: Schliemann, Henry (Heinrich)
     gutenberg_agent_id: '49092'
     url: http://www.gutenberg.org/2009/agents/49092
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56940#Mycen0xe6-a-narrative-of-researches-and-discoveries-at-Mycen0xe6-and-Tiryns
 gutenberg_issued: '2018-04-07'
 gutenberg_type: Text
 identifiers:
